@@ -168,10 +168,7 @@ Integrantes:
 - Leandro Guarido de Oliveira - RM 561760 - Turma 2TDS
 - Gabriel Costa Solano - RM 562325 - Turma 2TDS
 
-Preencher antes de enviar:
-
 - Link publico do GitHub: `https://github.com/LeandroGuaridoOliveira/GS-JAVA`
 - Link publico do deploy: `PENDENTE`
-- Link do video de apresentacao ate 10 minutos: `PENDENTE`
-- Link do video pitch ate 3 minutos: `PENDENTE`
-- Nome, RM e turma dos integrantes: preenchidos em `EQUIPE.txt`
+- Link do video de apresentacao: `https://youtu.be/5O5FWFUdbfQ`
+
