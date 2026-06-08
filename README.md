@@ -43,6 +43,29 @@ Banco H2:
 
 Importante: no H2 Console, troque o valor padrao `jdbc:h2:~/test` por `jdbc:h2:mem:orbitguard`. O banco e em memoria e so existe enquanto a API estiver rodando.
 
+## Deploy publico
+
+O projeto possui `Dockerfile` e usa a variavel `PORT`, exigida por plataformas de deploy. Caminho recomendado:
+
+1. Acesse Render ou Railway.
+2. Crie um novo Web Service a partir do repositorio `https://github.com/LeandroGuaridoOliveira/GS-JAVA`.
+3. Escolha deploy por Dockerfile.
+4. Configure, se necessario:
+   - Branch: `main`
+   - Root directory: vazio
+   - Health check path: `/health`
+5. Aguarde o build finalizar.
+6. Abra a URL publica gerada e teste:
+   - `/health`
+   - `/swagger-ui.html`
+   - `/api-docs`
+
+Exemplo do formato esperado:
+
+```text
+https://nome-do-servico.onrender.com/swagger-ui.html
+```
+
 ## Usuario de demonstracao
 
 ```json
@@ -171,4 +194,3 @@ Integrantes:
 - Link publico do GitHub: `https://github.com/LeandroGuaridoOliveira/GS-JAVA`
 - Link publico do deploy: `PENDENTE`
 - Link do video de apresentacao: `https://youtu.be/5O5FWFUdbfQ`
-
