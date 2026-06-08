@@ -192,5 +192,5 @@ Integrantes:
 - Gabriel Costa Solano - RM 562325 - Turma 2TDS
 
 - Link publico do GitHub: `https://github.com/LeandroGuaridoOliveira/GS-JAVA`
-- Link publico do deploy: `PENDENTE`
+- Link publico do deploy: `https://gs-java-w0qo.onrender.com`
 - Link do video de apresentacao: `https://youtu.be/5O5FWFUdbfQ`
