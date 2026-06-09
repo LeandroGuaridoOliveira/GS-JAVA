@@ -193,4 +193,4 @@ Integrantes:
 
 - Link publico do GitHub: `https://github.com/LeandroGuaridoOliveira/GS-JAVA`
 - Link publico do deploy: `https://gs-java-w0qo.onrender.com`
-- Link do video de apresentacao: `https://youtu.be/5O5FWFUdbfQ`
+- Link do video de apresentacao: `https://youtu.be/ECmqq9yr2xs`
